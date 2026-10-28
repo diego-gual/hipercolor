@@ -31,4 +31,6 @@ Development of HiperColor has been discontinued. I am currently working on a new
 - Genre: Endless Runner
 - Status: Discontinued
 
-- ![HiperColor Image](image.png)
+![HiperColor Image](image.png)
+![HiperColor Image](image2.png)
+![HiperColor Image](image3.png)
